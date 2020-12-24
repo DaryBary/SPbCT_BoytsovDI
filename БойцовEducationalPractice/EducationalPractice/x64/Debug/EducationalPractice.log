@@ -1,0 +1,21 @@
+﻿  MathLibrary.cpp
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MathLibrary.cpp(8,5): warning C4273: writeTo: несовместимое связывание dll
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MathLibrary.h(16,44): message : см. предыдущее определение "writeTo"
+  MyForm.cpp
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(413,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(415,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(417,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(419,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(421,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(423,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(425,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(427,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(429,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(431,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.h(399,7): warning C4101: values: неиспользованная локальная переменная
+C:\Users\34dbo\Desktop\БойцовEducationalPractice\EducationalPractice\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  MathLibrary.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Users\34dbo\Desktop\БойцовEducationalPractice\x64\Debug\EducationalPractice.lib и объект C:\Users\34dbo\Desktop\БойцовEducationalPractice\x64\Debug\EducationalPractice.exp
+LINK : fatal error LNK1561: точка входа должна быть определена
