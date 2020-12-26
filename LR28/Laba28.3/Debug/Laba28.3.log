@@ -1,0 +1,7 @@
+﻿  Laba28.3.cpp
+D:\C++\Laba28.3\Laba28.3.cpp(2,1): warning C4005: UNICODE: изменение макроопределения
+D:\C++\Laba28.3\Laba28.3.cpp : message : см. предыдущее определение "UNICODE"
+D:\C++\Laba28.3\Laba28.3.cpp(4,1): warning C4005: _UNICODE: изменение макроопределения
+D:\C++\Laba28.3\Laba28.3.cpp : message : см. предыдущее определение "_UNICODE"
+D:\C++\Laba28.3\Laba28.3.cpp(9,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba28.3.vcxproj -> D:\C++\Laba28.3\Debug\Laba28.3.exe

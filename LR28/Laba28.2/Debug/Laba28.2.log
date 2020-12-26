@@ -1,0 +1,4 @@
+﻿  Laba28.2.cpp
+D:\C++\Laba28.2\Laba28.2.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+Laba28.2.obj : error LNK2019: ссылка на неразрешенный внешний символ _NetUserAdd@16 в функции "int __cdecl CreateUser(wchar_t *,wchar_t *)" (?CreateUser@@YAHPA_W0@Z)
+D:\C++\Laba28.2\Debug\Laba28.2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
